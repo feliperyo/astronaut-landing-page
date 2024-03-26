@@ -200,7 +200,7 @@ button:hover {
     }
 
     .p-down {
-        margin-top: 50%;
+        margin-top: 250px;
     }
 
     .container-down {
@@ -219,11 +219,4 @@ button:hover {
         height: 55px;
         background-color: rgba(89, 2, 9, 0.75);
     }
-}
-
-@media screen and (min-height:800px) {
-    .p-down {
-        margin-top: 90%;
-    }
-
 }
