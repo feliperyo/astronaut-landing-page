@@ -118,6 +118,28 @@ button:hover {
     background-color: rgba(2, 2, 97, 0.5);
 }
 
+@media screen and (max-width:1600px) {
+
+    h1 {
+        font-size: 50px;
+        line-height: 90px;
+    }
+
+    .p-up {
+        font-size: 18px;
+    }
+
+    .container-up {
+        gap: 10px;
+        margin-top: 0px;
+    }
+
+    .container-down {
+        gap: 10px;
+        margin-bottom: 20px;
+    }
+}
+
 @media screen and (max-width:1030px) {
 
     body {
